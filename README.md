@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krasimirov4040
-- 👀 I’m interested in Cyber Security,Web3 and blockchain technologies and DevOps
-- 🌱 I’m currently learning the basics of Cyber Security and I am also improving my knowledge in the I.T. sector as a whole
+- 👀 I’m currently a student in Technical University Sofia as a Bachelor in Information Technologies in the Industry.
+- 🌱 I’m in an active pursuit of skills and knowledge in the IT sector.
 - 📫 This is my LinkedIn profile: https://www.linkedin.com/in/chavdar-krasimirov-62b803218/
 
 
